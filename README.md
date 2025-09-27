@@ -56,9 +56,11 @@ ___
   
 -------------
 
-  <a href='https://smd-pair.zone.id/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF8C00?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
+  <p align="center">
+  <a href="https://smd-pair.zone.id/" target="_blank">
+    <img src="Shaban/paircode-holo.svg" width="340" alt="PAIR_CODE – Device Session ID"/>
+  </a>
+</p>
 
 -------------
 
