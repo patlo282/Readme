@@ -58,7 +58,7 @@ ___
 
   <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="Shaban/paircode-holo.svg" width="340" alt="PAIR_CODE – Device Session ID"/>
+    <img src="Shaban/paircode-holo.svg" width="340" alt="PAIR 🔗 CODE – Device Session ID"/>
   </a>
 </p>
 
