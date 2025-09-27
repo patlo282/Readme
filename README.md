@@ -7,7 +7,6 @@
   
 ______
 
-
 [![Shaban](https://raw.githubusercontent.com/MRSHABAN45/SHABAN-MD/main/Shaban/mr.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 ___ 
 
@@ -25,7 +24,6 @@ ___
 </div>
 
 ---------
-
 
 <p align="center">
 <a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
@@ -45,10 +43,7 @@ ___
 | Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
   
-<a
-href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
+![Maintenance](Shaban/maintenance.svg)
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
