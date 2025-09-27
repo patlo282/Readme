@@ -1,40 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
-  <a href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity" target="_blank">
-    <!-- Background with gradient -->
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00ff87">
-          <animate attributeName="stop-color" values="#00ff87;#60efff;#00ff87" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#60efff">
-          <animate attributeName="stop-color" values="#60efff;#00ff87;#60efff" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="32" viewBox="0 0 220 40">
+  <defs>
+    <!-- Animated gradient for text, frame & dot -->
+    <linearGradient id="frontGrad" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#ff00ff"/>
+      <stop offset="25%" stop-color="#00ffff"/>
+      <stop offset="50%" stop-color="#00ff87"/>
+      <stop offset="75%" stop-color="#ffff00"/>
+      <stop offset="100%" stop-color="#ff00ff"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+                        from="-1,0" to="1,0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
 
-      <!-- Shine animation -->
-      <linearGradient id="shine" x1="-100%" y1="0" x2="200%" y2="0">
-        <stop offset="0%" stop-color="white" stop-opacity="0" />
-        <stop offset="50%" stop-color="white" stop-opacity="0.6" />
-        <stop offset="100%" stop-color="white" stop-opacity="0" />
-        <animateTransform attributeName="gradientTransform" type="translate" from="-1,0" to="1,0" dur="2.5s" repeatCount="indefinite"/>
-      </linearGradient>
-    </defs>
+  <!-- Background (static black) -->
+  <rect width="220" height="40" rx="10" fill="black" stroke="url(#frontGrad)" stroke-width="2">
+    <animate attributeName="stroke-width" values="2;4;2" dur="2s" repeatCount="indefinite"/>
+  </rect>
 
-    <!-- Badge background -->
-    <rect width="220" height="40" rx="10" fill="url(#grad)"/>
-    <rect width="220" height="40" rx="10" fill="url(#shine)"/>
+  <!-- Text with animated gradient -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        fill="url(#frontGrad)" font-size="13" font-weight="900"
+        font-family="Arial Black, Inter, sans-serif">
+    Maintained Yes
+  </text>
 
-    <!-- Text -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          fill="black" font-size="15" font-weight="900"
-          font-family="Arial Black, Inter, sans-serif">
-      Maintained  Yes
-    </text>
-
-    <!-- Pulsing circle indicator -->
-    <circle cx="200" cy="20" r="5" fill="limegreen">
-      <animate attributeName="r" values="5;7;5" dur="1.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-  </a>
+  <!-- Faster pulsing color-changing dot -->
+  <circle cx="200" cy="20" r="4" fill="url(#frontGrad)">
+    <animate attributeName="r" values="4;6;4" dur="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>
+  </circle>
 </svg>
