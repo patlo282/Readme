@@ -46,13 +46,13 @@ ___
 ![Maintenance](Shaban/maintenance.svg)
 
 
+-------------
+
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
     <img src="Shaban/forkstar-holo.svg" width="450" alt="Fork Star Bot Repo"/>
   </a>
 </p>
-   
- -------------
   
 -------------
 
