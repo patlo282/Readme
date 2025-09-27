@@ -45,9 +45,12 @@ ___
   
 ![Maintenance](Shaban/maintenance.svg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- <p align="lift">
- <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
+
+ <p align="center">
+  <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
+    <img src="Shaban/forkstar-holo.svg" width="450" alt="Fork Star Bot Repo"/>
+  </a>
+</p>
    
  -------------
   
