@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+  <defs>
+    <!-- Colors -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF00"/>
+      <stop offset="100%" stop-color="#7CFF7C"/>
+    </linearGradient>
+
+    <!-- Typing masks (clip rect width animates to reveal text) -->
+    <clipPath id="clip1"><rect x="40" y="12" width="0" height="36">
+      <animate attributeName="width" values="0;520;520" dur="6s" begin="0s"   fill="freeze" />
+      <animate attributeName="width" values="0" dur="0.1s" begin="6s" fill="freeze" />
+    </rect></clipPath>
+
+    <clipPath id="clip2"><rect x="40" y="12" width="0" height="36">
+      <animate attributeName="width" values="0;520;520" dur="6s" begin="7s"   fill="freeze" />
+      <animate attributeName="width" values="0" dur="0.1s" begin="13s" fill="freeze" />
+    </rect></clipPath>
+
+    <clipPath id="clip3"><rect x="40" y="12" width="0" height="36">
+      <animate attributeName="width" values="0;520;520" dur="6s" begin="14s"  fill="freeze" />
+      <animate attributeName="width" values="0" dur="0.1s" begin="20s" fill="freeze" />
+    </rect></clipPath>
+
+    <clipPath id="clip4"><rect x="40" y="12" width="0" height="36">
+      <animate attributeName="width" values="0;520;520" dur="6s" begin="21s"  fill="freeze" />
+      <animate attributeName="width" values="0" dur="0.1s" begin="27s" fill="freeze" />
+    </rect></clipPath>
+
+    <clipPath id="clip5"><rect x="40" y="12" width="0" height="36">
+      <animate attributeName="width" values="0;520;520" dur="6s" begin="28s"  fill="freeze" />
+      <animate attributeName="width" values="0" dur="0.1s" begin="34s" fill="freeze" />
+    </rect></clipPath>
+
+    <!-- Cursor motion (follows typing) -->
+    <linearGradient id="cursorGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF00"/>
+      <stop offset="100%" stop-color="#7CFF7C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Ticker bar -->
+  <rect x="5" y="5" width="590" height="50" rx="10" fill="#000" stroke="url(#neon)" stroke-width="2"/>
+  <!-- subtle left tag -->
+  <rect x="12" y="18" width="16" height="24" rx="4" fill="url(#neon)">
+    <animate attributeName="opacity" values="1;0.6;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- LINE 1 -->
+  <g clip-path="url(#clip1)">
+    <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
+      ⚡ SHABAN MD BETTER OPTION
+    </text>
+  </g>
+  <!-- cursor 1 -->
+  <rect x="40" y="18" width="2" height="28" fill="url(#cursorGrad)" opacity="0">
+    <animate attributeName="x" values="40;560" dur="6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" begin="0s" repeatCount="8"/>
+  </rect>
+
+  <!-- LINE 2 -->
+  <g clip-path="url(#clip2)">
+    <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
+      🔥 THE MOST POWERFUL WHATSAPP BOT
+    </text>
+  </g>
+  <rect x="40" y="18" width="2" height="28" fill="url(#cursorGrad)" opacity="0">
+    <animate attributeName="x" values="40;560" dur="6s" begin="7s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" begin="7s" repeatCount="8"/>
+  </rect>
+
+  <!-- LINE 3 -->
+  <g clip-path="url(#clip3)">
+    <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
+      💻 DEVELOPER BY MR SHABAN
+    </text>
+  </g>
+  <rect x="40" y="18" width="2" height="28" fill="url(#cursorGrad)" opacity="0">
+    <animate attributeName="x" values="40;560" dur="6s" begin="14s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" begin="14s" repeatCount="8"/>
+  </rect>
+
+  <!-- LINE 4 -->
+  <g clip-path="url(#clip4)">
+    <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
+      🚀 SHABAN-MD SOLUTIONS
+    </text>
+  </g>
+  <rect x="40" y="18" width="2" height="28" fill="url(#cursorGrad)" opacity="0">
+    <animate attributeName="x" values="40;560" dur="6s" begin="21s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" begin="21s" repeatCount="8"/>
+  </rect>
+
+  <!-- LINE 5 -->
+  <g clip-path="url(#clip5)">
+    <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
+      🌈 FAST ⚡ SECURE 🔒 RELIABLE ✅
+    </text>
+  </g>
+  <rect x="40" y="18" width="2" height="28" fill="url(#cursorGrad)" opacity="0">
+    <animate attributeName="x" values="40;560" dur="6s" begin="28s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.7s" begin="28s" repeatCount="8"/>
+  </rect>
+
+  <!-- loop helper: invisible circle just to keep timeline repeating nicely -->
+  <circle cx="-10" cy="-10" r="1" fill="none">
+    <animate attributeName="r" values="1;1" dur="35s" repeatCount="indefinite"/>
+  </circle>
+</svg>
