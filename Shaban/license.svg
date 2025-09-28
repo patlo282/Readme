@@ -86,13 +86,13 @@
     <rect x="0" y="28" width="320" height="2" fill="url(#dots)"/>
 
     <!-- Row 2: Version -->
-    <g transform="translate(0,38)">
+    <g transform="translate(0,33)"> <!-- Updated Y position from 38 to 33 -->
       <text x="0" y="0" dy="0.9em" font-size="15" font-weight="800" fill="url(#holo)" filter="url(#glow)">VERSION</text>
       <text x="100" y="0" dy="0.9em" font-size="15" font-weight="900" fill="#FFFFFF">V.5 Neon Edition</text>
     </g>
 
     <!-- Row 3: License -->
-    <g transform="translate(0,66)">
+    <g transform="translate(0,61)"> <!-- Updated Y position from 66 to 61 -->
       <text x="0" y="0" dy="0.9em" font-size="15" font-weight="800" fill="url(#holo)" filter="url(#glow)">LICENSE</text>
       <text x="100" y="0" dy="0.9em" font-size="15" font-weight="900" fill="#FFFFFF">BSD 3-Clause</text>
     </g>
