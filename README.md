@@ -139,8 +139,7 @@ jobs:
 
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
 
-- ▶️ **YouTube SHABAN MD**  
-  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_)
+![YOU TUBE](Shaban/youtube.svg)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
