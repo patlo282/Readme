@@ -49,7 +49,7 @@ ___
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="450" alt="Fork Star Bot Repo"/>
+    <img src="Shaban/forkstar-holo.svg" width="250" alt="Fork Star Bot Repo"/>
   </a>
 </p>
   
@@ -57,7 +57,7 @@ ___
 
   <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="340" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="250" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
@@ -139,7 +139,9 @@ jobs:
 
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
 
-![YOU TUBE](Shaban/youtube.svg)
+<a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
+  <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
+</a>
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
