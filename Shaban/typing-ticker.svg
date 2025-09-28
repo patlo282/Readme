@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="60" viewBox="0 0 600 60">
   <defs>
     <!-- Neon green gradient -->
     <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -11,8 +11,7 @@
       <stop offset="0%"   stop-color="#00ffa3"/>
       <stop offset="50%"  stop-color="#00c3ff"/>
       <stop offset="100%" stop-color="#7cff00"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-                        from="-1,0" to="1,0" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1,0" to="1,0" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
 
     <!-- Clip for inner rounded area so dots stay inside the box -->
@@ -37,7 +36,7 @@
   <!-- Ticker bar (base) -->
   <rect x="5" y="5" width="590" height="50" rx="10" fill="#000" stroke="url(#neon)" stroke-width="2"/>
 
-  <!-- Background with LIVE DOTS (new) -->
+  <!-- Background with LIVE DOTS -->
   <g clip-path="url(#innerBox)" opacity="0.65">
     <!-- Layer 1: slow gliding dots -->
     <circle cx="30"  cy="18" r="2.5" fill="url(#dotsGrad)">
@@ -89,7 +88,7 @@
     <animate attributeName="opacity" values="1;0.6;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Line 1 (0s start; repeats every 30s) -->
+  <!-- Line 1 -->
   <g clip-path="url(#clip1)">
     <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
       👽 SHABAN MD BETTER OPTION
