@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="100" viewBox="0 0 520 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="32" viewBox="0 0 220 40">
   <defs>
     <!-- Animated gradient for TEXT & FRAME (front colors only) -->
     <linearGradient id="frontGrad" x1="0%" y1="0%" x2="200%" y2="0%">
