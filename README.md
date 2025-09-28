@@ -28,7 +28,7 @@ ___
 ---------
 
 <p align="center">
-<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
@@ -37,12 +37,9 @@ ___
   <a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
+-------------
 
-***BOT FEATURE ⤵️***
-
-| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+![Feature](Shaban/feature-bot.svg)
 
   
 ![Maintenance](Shaban/maintenance.svg)
