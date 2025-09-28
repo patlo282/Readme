@@ -167,7 +167,7 @@ jobs:
   <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
 </div>
 
-## 🗃️ _PROJECT ARCHITECTS_
+
 <div align="center">
   <!-- Glowing Header -->
 <p align="center">
@@ -181,9 +181,6 @@ jobs:
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-
-![LICENSE](Shaban/license.svg)
-
 
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
