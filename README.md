@@ -21,7 +21,7 @@ ___
   
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S" target="_blank">
-    <img src="./Shaban/channel-update.svg" width="420" alt="Bot Updating — WhatsApp Channel | Join Fast">
+    <img src="./Shaban/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
 
@@ -39,25 +39,38 @@ ___
 
 -------------
 
-![Feature](Shaban/feature-bot.svg)
-
-  
-![Maintenance](Shaban/maintenance.svg)
+<p align="center">
+<img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
 
 
--------------
+<p align="center">
+<img src="Shaban/license.svg" alt="License" width="230"/>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+<p align="center">
+<img src="Shaban/maintenance.svg" alt="Maintenance" width="150"/>
+
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="250" alt="Fork Star Bot Repo"/>
+    <img src="Shaban/forkstar-holo.svg" width="200" alt="Fork Star Bot Repo"/>
   </a>
 </p>
   
--------------
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
-  <p align="center">
+<p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="250" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="200" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
@@ -172,12 +185,6 @@ jobs:
 ![LICENSE](Shaban/license.svg)
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=6000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=+SHABAN+MD+QUALITY+EDITION+BY+MR+SHABAN42;⚡+THE+FUTURE+OF+WHATSAPP+BOT+IS+HERE" alt="Footer Animation">
-</h3>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
@@ -185,10 +192,7 @@ jobs:
 
 </div>
 
-</div>
+ <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> 
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks To Our Loyal Followers</h2> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <h1> ℕ𝕆 𝕃𝕆𝕍𝔼 💔 ℕ𝕆 𝕊𝕋ℝ𝔼𝕊𝕊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> </h1>
