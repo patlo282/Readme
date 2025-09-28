@@ -168,16 +168,9 @@ jobs:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-## 🤖 _SHABAN-MD STATUS_
+--------------
 
-```diff
-+ Project Status: Active
-! Version: V.5 Neon Edition
-# License: BSD 3-Clause
-```
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=350&color=gradient&text=FREE%20SERVES%20🛜&animation=twinkling&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
-</div>
+![LICENSE](Shaban/license.svg)
 
 
 <h3 align="center">
