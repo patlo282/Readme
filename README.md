@@ -44,14 +44,14 @@ ___
 
 
 <p align="center">
-<img src="Shaban/license.svg" alt="License" width="230"/>
+<img src="Shaban/license.svg" alt="License" width="250"/>
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
 <p align="center">
-<img src="Shaban/maintenance.svg" alt="Maintenance" width="150"/>
+<img src="Shaban/maintenance.svg" alt="Maintenance" width="180"/>
 
 
 <p align="center">
@@ -60,7 +60,7 @@ ___
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="200" alt="Fork Star Bot Repo"/>
+    <img src="Shaban/forkstar-holo.svg" width="250" alt="Fork Star Bot Repo"/>
   </a>
 </p>
   
@@ -70,7 +70,7 @@ ___
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="200" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="250" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
