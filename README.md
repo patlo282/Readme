@@ -193,5 +193,5 @@ jobs:
 
 
 <p align="center">
-<img src="Shaban/nolove.svg" alt="NoLove" width="150"/>
+<img src="Shaban/nolove.svg" alt="NoLove" width="250"/>
 
