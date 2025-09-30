@@ -39,36 +39,27 @@ ___
 <img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
 
 <p align="center">
-<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="150"/>
+<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="125"/>
   
 <p align="center">
 <img src="Shaban/license.svg" alt="License" width="200"/>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
-</p>
+--------------
 
 <p align="center">
-<img src="Shaban/maintenance.svg" alt="Maintenance" width="140"/>
+<img src="Shaban/maintenance.svg" alt="Maintenance" width="120"/>
 
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
-</p>
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="200" alt="Fork Star Bot Repo"/>
+    <img src="Shaban/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
-</p>
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="190" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
@@ -82,25 +73,25 @@ ___
 
 <p align="center">
   <a href="https://dashboard.render.com/web/new" target="_blank">
-    <img src="./Shaban/render-deploy.svg" width="170" alt="RENDER_DEPLOY – SHABAN-MD">
+    <img src="./Shaban/render-deploy.svg" width="160" alt="RENDER_DEPLOY – SHABAN-MD">
   </a>
 </p>
 
 <p align="center">
   <a href="https://railway.app/new" target="_blank">
-    <img src="./Shaban/railway-deploy.svg" width="170" alt="RAILWAY_DEPLOY – SHABAN-MD">
+    <img src="./Shaban/railway-deploy.svg" width="150" alt="RAILWAY_DEPLOY – SHABAN-MD">
   </a>
 </p>
 
 <p align="center">
   <a href="https://shaban-free-host.zone.id/" target="_blank">
-    <img src="./Shaban/free-host-deploy.svg" width="170" alt="FREE_HOST – SHABAN-MD">
+    <img src="./Shaban/free-host-deploy.svg" width="140" alt="FREE_HOST – SHABAN-MD">
   </a>
 </p>
 
 <p align="center">
   <a href="https://bot-hosting.net/?aff=1335487206948864030" target="_blank">
-    <img src="./Shaban/bot-hosting-deploy.svg" width="170" alt="PANEL_HOST – SHABAN-MD">
+    <img src="./Shaban/bot-hosting-deploy.svg" width="130" alt="PANEL_HOST – SHABAN-MD">
   </a>
 </p>
 
