@@ -39,7 +39,7 @@ ___
 <img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
 
 <p align="center">
-<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="140"/>
+<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="150"/>
   
 <p align="center">
 <img src="Shaban/license.svg" alt="License" width="200"/>
