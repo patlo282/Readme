@@ -63,7 +63,7 @@ ___
     <img src="Shaban/forkstar-holo.svg" width="250" alt="Fork Star Bot Repo"/>
   </a>
 </p>
-  
+
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
@@ -71,6 +71,12 @@ ___
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
     <img src="./Shaban/paircode-link.svg" width="250" alt="PAIR_CODE – Device Session ID">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://railway.app/new" target="_blank">
+    <img src="./Shaban/railway-deploy.svg" width="170" alt="RAILWAY_DEPLOY – SHABAN-MD">
   </a>
 </p>
 
