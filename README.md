@@ -100,6 +100,12 @@ ___
   </a>
 </p>
 
+<p align="center">
+  <a href="https://bot-hosting.net/?aff=1335487206948864030" target="_blank">
+    <img src="./Shaban/bot-hosting-deploy.svg" width="170" alt="PANEL_HOST – SHABAN-MD">
+  </a>
+</p>
+
 -------------
 
 -------------
