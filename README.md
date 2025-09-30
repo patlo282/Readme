@@ -31,18 +31,16 @@ ___
 <a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
-</p> 
 
-<p align="center">
-  <a href="https://github.com/MRSHABAN45/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
-</p>
 
 -------------
 
 <p align="center">
 <img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
 
-
+<p align="center">
+<img src="Shaban/beta-v5.svg" alt="BETA-V5" width="140"/>
+  
 <p align="center">
 <img src="Shaban/license.svg" alt="License" width="200"/>
 
