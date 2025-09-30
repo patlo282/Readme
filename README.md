@@ -94,6 +94,12 @@ ___
   </a>
 </p>
 
+<p align="center">
+  <a href="https://shaban-free-host.zone.id/" target="_blank">
+    <img src="./Shaban/free-host-deploy.svg" width="170" alt="FREE_HOST – SHABAN-MD">
+  </a>
+</p>
+
 -------------
 
 -------------
