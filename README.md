@@ -44,14 +44,14 @@ ___
 
 
 <p align="center">
-<img src="Shaban/license.svg" alt="License" width="250"/>
+<img src="Shaban/license.svg" alt="License" width="200"/>
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
 </p>
 
 <p align="center">
-<img src="Shaban/maintenance.svg" alt="Maintenance" width="180"/>
+<img src="Shaban/maintenance.svg" alt="Maintenance" width="140"/>
 
 
 <p align="center">
@@ -60,7 +60,7 @@ ___
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="250" alt="Fork Star Bot Repo"/>
+    <img src="Shaban/forkstar-holo.svg" width="200" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
@@ -70,7 +70,7 @@ ___
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="250" alt="PAIR_CODE – Device Session ID">
+    <img src="./Shaban/paircode-link.svg" width="190" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
@@ -105,14 +105,6 @@ ___
     <img src="./Shaban/bot-hosting-deploy.svg" width="170" alt="PANEL_HOST – SHABAN-MD">
   </a>
 </p>
-
--------------
-
-[![HEROKU DEPLOY](./Shaban/heroku-deploy.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD)
-[![RENDER DEPLOY](./Shaban/render-deploy.svg)](https://dashboard.render.com/web/new)
-[![RAILWAY DEPLOY](./Shaban/railway-deploy.svg)](https://railway.app/new)
-[![FREE HOST](./Shaban/free-host-deploy.svg)](https://shaban-free-host.zone.id/)
-[![PANEL HOST](./Shaban/bot-hosting-deploy.svg)](https://bot-hosting.net/?aff=1335487206948864030)
 
 -------------
 
