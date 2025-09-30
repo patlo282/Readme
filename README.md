@@ -76,15 +76,11 @@ ___
 
 -------------
 
-# 🚀 Shaban Deployment Links
-
-Ye ek hi **interactive SVG box** hai jisme saare 6 deployment templates included hain.
-
-<div align="center">
-  <a href="#">
-    <img src="Shaban/deploy-buttons.svg" alt="Shaban Deploy Buttons" width="820"/>
+<p align="center">
+  <a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank">
+    <img src="./Shaban/heroku-deploy.svg" width="250" alt="HEROKU_DEPLOY – SHABAN-MD">
   </a>
-</div>
+</p>
 
 -------------
 
