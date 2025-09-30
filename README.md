@@ -108,7 +108,11 @@ ___
 
 -------------
 
-![WELLCOME](Shaban/deploy-buttons.svg)
+[![HEROKU DEPLOY](./Shaban/heroku-deploy.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD)
+[![RENDER DEPLOY](./Shaban/render-deploy.svg)](https://dashboard.render.com/web/new)
+[![RAILWAY DEPLOY](./Shaban/railway-deploy.svg)](https://railway.app/new)
+[![FREE HOST](./Shaban/free-host-deploy.svg)](https://shaban-free-host.zone.id/)
+[![PANEL HOST](./Shaban/bot-hosting-deploy.svg)](https://bot-hosting.net/?aff=1335487206948864030)
 
 -------------
 
