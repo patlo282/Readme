@@ -78,7 +78,13 @@ ___
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank">
-    <img src="./Shaban/heroku-deploy.svg" width="250" alt="HEROKU_DEPLOY – SHABAN-MD">
+    <img src="./Shaban/heroku-deploy.svg" width="170" alt="HEROKU_DEPLOY – SHABAN-MD">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://dashboard.render.com/web/new" target="_blank">
+    <img src="./Shaban/render-deploy.svg" width="170" alt="RENDER_DEPLOY – SHABAN-MD">
   </a>
 </p>
 
